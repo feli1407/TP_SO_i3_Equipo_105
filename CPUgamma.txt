@@ -1,0 +1,6 @@
+Packages:
+	0: Intel Core i7-4790
+Cores:
+	0: 1 processor (0), Intel Haswell
+Logical processors:
+	0: APIC ID 0x00000000
