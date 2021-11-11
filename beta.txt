@@ -23,3 +23,32 @@ Adaptador de Ethernet VirtualBox Host-Only Network:
    Puerta de enlace predeterminada . . . . . :
    
    17:35 11/11/2021
+
+Christian Pascual
+
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . : cpe.telecentro.net.ar
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2803:9800:9017:b648::1
+   Vínculo: dirección IPv6 local. . . : fe80::b0c4:3b6b:f01d:457a%13
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.100.11
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.100.1
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::f419:521e:f6d0:a5cb%5
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+19:21 11/11/2021
