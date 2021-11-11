@@ -1,0 +1,6 @@
+a-El master quedo con los mismos archivos que el branch que creo beta.
+b-Si, beta pudo ver los cambios.
+c-
+git checkout origin/main
+git merge Casco
+git push
