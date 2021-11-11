@@ -1,0 +1,25 @@
+Casco Felipe
+
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2800:2141:2400:2a1:294e:6bd9:72c9:c1ea
+   Dirección IPv6 temporal. . . . . . : 2800:2141:2400:2a1:10c9:475d:c4bb:a67f
+   Vínculo: dirección IPv6 local. . . : fe80::294e:6bd9:72c9:c1ea%12
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.27
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::92f8:91ff:fe51:9fdf%12
+                                       192.168.0.1
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::d543:92bb:fec8:1af4%9
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+   
+   17:35 11/11/2021
