@@ -5,6 +5,29 @@ git checkout origin/main
 git merge Casco
 git push
 
+d_Las demas ramas no quedaron actualizadas
+
+e_El principal problema fue el desconocimiento e inexperencia en el uso de 
+los comandos a utilizar para poder hacer un merge, ademas de la navegacion
+entre las distintas ramas
+
+f_Primero para poder ver las ramas que crearon otras personas tuve que usar 
+git branch -a
+
+Luego moverme a  esa rama con
+git checkout origin/nombre
+
+ahi se pudo modificar el archivo como veniamos haciendo siempre
+nano beta.txt
+
+se agregaro el cambio temporal utilizando
+git add -A
+
+se hizo un comentario sobre la modificacion
+git commit -m "...."
+
+por ultimo se subio el cambio con
+git push origin HEAD:Nombre
 
 g- Primero use el comando git Checkout origin/Casco para pasarme a la nueva rama
 Una vez en la otra rama modifique el archivo beta.txt
