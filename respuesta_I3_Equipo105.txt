@@ -4,3 +4,10 @@ c-
 git checkout origin/main
 git merge Casco
 git push
+
+
+g- Primero use el comando git Checkout origin/Casco para pasarme a la nueva rama
+Una vez en la otra rama modifique el archivo beta.txt
+git add .
+git commit -m "Cambios"
+git push Origin HEAD:Casco para subirlo a la rama y no al main
